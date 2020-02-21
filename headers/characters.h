@@ -27,7 +27,7 @@ class Mobs{
     private:
         std::string mName;
         int HP, DEF, EXP;
+        bool is_defeated = false;
     public:
         
-
 };
